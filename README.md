@@ -3,23 +3,18 @@
 </p>
 
 
-
-
-
-
-
-<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;" align="center">
     <tbody>
       <tr style="border: none;">
         <td style="border: none;">
           <a href="">
-            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-cp&layout=compact&theme=radical&langs_count=5" 
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-cp&layout=compact&theme=midnight-purple&langs_count=5" 
                  width=410/>
           </a>
         </td>
         <td style="border: none;">
           <a href="">
-            <img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-cp&theme=radical" />
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-cp&theme=midnight-purple&count_private=true" />
           </a>
         </td>
       </tr>   
