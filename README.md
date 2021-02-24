@@ -4,12 +4,29 @@
 
 
 
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-cp&layout=compact&theme=radical&langs_count=5" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-cp&theme=radical" />
-</a>
+
+
+
+
+<table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
+    <tbody>
+      <tr style="border: none;">
+        <td style="border: none;">
+          <a href="">
+            <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-cp&layout=compact&theme=radical&langs_count=5" 
+                 width=410/>
+          </a>
+        </td>
+        <td style="border: none;">
+          <a href="">
+            <img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-cp&theme=radical" />
+          </a>
+        </td>
+      </tr>   
+  </tbody>
+</table>
+
+
 
 <!--
 **Vini-cp/Vini-cp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
