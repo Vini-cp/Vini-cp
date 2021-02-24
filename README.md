@@ -4,10 +4,10 @@
 
 
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-cp&layout=compact&theme=radical" />
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vini-cp&layout=compact&theme=radical&langs_count=5" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=vini-cp&theme=radical" />
 </a>
 
