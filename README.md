@@ -1,8 +1,5 @@
-### Hi there 👋
-
-
 <p align="center">
-  <img src="https://i.pinimg.com/originals/4c/c8/2e/4cc82e37501d5054338fb65ee2af9b0b.jpg" width="350" alt="maxwell's equations">
+  <img src="https://www.nit.pt/wp-content/uploads/2020/11/88a80d9b250efee87522e70cd6aefde0.jpg" alt="boreal">
 </p>
 
 
