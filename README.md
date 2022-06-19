@@ -1,4 +1,10 @@
 <h1 align="center">Hi, I'm Vinicius !</h1>
+
+<p align="center">
+  <img 
+       src="https://user-images.githubusercontent.com/62481046/174497003-f1e8abdc-3490-4f53-a5bd-d8241bb5099b.png">
+</p>
+
 <h3 align="center">A backend developer ...</h3>
 
 - 🔭 I’m currently working as C++ dev
