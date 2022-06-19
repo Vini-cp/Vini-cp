@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Vinicius !</h1>
+<h1 align="center">Hi, I'm Vinícius !</h1>
 
 <p align="center">
   <img 
